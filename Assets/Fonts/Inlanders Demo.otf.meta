@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4ecef380bb7e49a47aa36f809f4cd07d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inlanders
+  fontNames:
+  - Inlanders
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2a67143a02cd404fbe38a9ea188de98, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
